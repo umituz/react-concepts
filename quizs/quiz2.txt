@@ -1,0 +1,12 @@
+Q: What is a React component?
+A: A function that returns React elements (UI)
+
+Q: What is wrong with this code?
+
+function myComponent () {
+    return (
+        <small>Text</small>
+    )
+}
+
+A: function name should start with capitalized letter
